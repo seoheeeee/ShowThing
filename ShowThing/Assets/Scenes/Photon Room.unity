@@ -1876,7 +1876,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2115537099}
-        m_TargetAssemblyTypeName: PhotonRoom, Assembly-CSharp
+        m_TargetAssemblyTypeName: LobbyManager, Assembly-CSharp
         m_MethodName: OnClickCreateRoom
         m_Mode: 1
         m_Arguments:
@@ -2009,7 +2009,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2115537099}
-        m_TargetAssemblyTypeName: PhotonRoom, Assembly-CSharp
+        m_TargetAssemblyTypeName: LobbyManager, Assembly-CSharp
         m_MethodName: OnClickJoinRoom
         m_Mode: 1
         m_Arguments:

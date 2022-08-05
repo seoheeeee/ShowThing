@@ -19,7 +19,7 @@ public class PhotonSetting : MonoBehaviour
         PhotonNetwork.AutomaticallySyncScene = false;
 
         // 같은 버전만 접속할 수 있게 1.0v
-        PhotonNetwork.GameVersion = "1.0f";
+        PhotonNetwork.GameVersion = "1.0";
 
         // 닉네임 설정
         PhotonNetwork.NickName = username.text;
